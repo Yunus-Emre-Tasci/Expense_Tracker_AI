@@ -174,7 +174,7 @@ View the complete database diagram: [Eraser Diagram](https://app.eraser.io/works
 2. **Add environment variables in Vercel dashboard**
 3. **Deploy automatically on every push to main branch**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sahandghavidel/next-expense-tracker-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Yunus-Emre-Tasci)
 
 ## 📎 Useful Links
 
@@ -206,6 +206,6 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)**
+**Built with ❤️ by [Yunus Emre Taşçı](https://github.com/Yunus-Emre-Tasci)**
 
 _Demonstrating modern full-stack development with AI integration, completely free to build and deploy._
